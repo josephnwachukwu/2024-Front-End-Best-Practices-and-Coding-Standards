@@ -7,7 +7,7 @@ A Manifesto of Development Practices
 
 ## Pillars of Development
 
-### Software Development Lifecycle
+### Software Development Lifecycle (SDLC)
 
 ### Performance
 
