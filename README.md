@@ -22,7 +22,7 @@ A Manifesto of Development Practices
 ### Deployment
 
 #### Release Notes
-I use the Semantic Versioning[https://semver.org] standards for incrementing the code base 
+I use the Semantic Versioning [https://semver.org] standards for incrementing the code base 
 here is an over view
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
