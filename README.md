@@ -27,7 +27,7 @@ I follow **JSDoc** [https://jsdoc.app] and **TSDoc** [https://tsdoc.org] guideli
 I use **Swagger** [https://swagger.io] and **Postman** [https://www.postman.com] for service documentation. 
 
 #### Release Notes
-I use the Semantic Versioning [https://semver.org] standards for incrementing the code base.
+I use the **Semantic Versioning** [https://semver.org] standards for incrementing the code base.
 Here is an overview:
 
 Given a version number **MAJOR.MINOR.PATCH**, increment the:
