@@ -37,9 +37,15 @@ Given a version number **MAJOR.MINOR.PATCH**, increment the:
 **PATCH** version when you make backward compatible bug fixes
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
+### Product Road Mapping
+#### Planning
+
+#### Estimation
+I prefer to use story points or function points over T-Shirt Size for estimation. Story points are ususally translated into measures of time such as hours. 1 point is defined as the time it takes to make the smallest correction such as a spelling correction, from development to deployment. 
+
+#### Backlog
 
 
-### Product Road Map
 
 ### Project Checklist
 
