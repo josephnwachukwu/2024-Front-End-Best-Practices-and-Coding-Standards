@@ -5,6 +5,34 @@ A Manifesto of Development Practices
 
 ## Agenda
 
+## What should be in a Front-End Guidelines and Best Practices?
+
+**Browser and platform targets** - 
+
+**Rules for code annotation and documentation** -
+
+**Mandatory performance initiatives** -
+
+**Rubric For accessibility, security, and SEO Testing** - 
+
+**CSS guidelines** - 
+
+**File name and folder structure guidelines** - 
+
+**Image and asset best practices** - 
+
+## Is this document still necessary in 2024?
+
+Yes, front-end guidelines and best practices are still relevant today.
+
+Consistency - not only in the source code, but design and use experience
+
+Optimization - developers are on the same page. Code reviews are much smoother, Easier to identify and address technical debt
+
+One Band One Sound - makes it easier to adhere to company wide coding preferences and make the code readable to everyone.
+
+## The Lay of the Land
+
 ## Pillars of Development
 
 ### Software Development Lifecycle (SDLC)
