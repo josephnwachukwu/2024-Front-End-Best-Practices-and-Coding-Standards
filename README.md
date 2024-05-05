@@ -23,13 +23,13 @@ A Manifesto of Development Practices
 
 ## Is this document still necessary in 2024?
 
-Yes, front-end guidelines and best practices are still relevant today.
+**Yes**, front-end guidelines and best practices are still relevant today. and here is why
 
-Consistency - not only in the source code, but design and use experience
+**Consistency** - not only in the source code, but design and use experience
 
-Optimization - developers are on the same page. Code reviews are much smoother, Easier to identify and address technical debt
+**Optimization** - developers are on the same page. Code reviews are much smoother, Easier to identify and address technical debt
 
-One Band One Sound - makes it easier to adhere to company wide coding preferences and make the code readable to everyone.
+**One Band One Sound** - makes it easier to adhere to company wide coding preferences and make the code readable to everyone.
 
 ## The Lay of the Land
 
