@@ -1,7 +1,7 @@
 # 2024 Front-End Best Practices and Coding Standards
 A Manifesto of Development Practices
 
-## Overview
+The Goal of this document is to an extenstion of industry standards best practices. This document also has my technical decisions and opinions over the most relevant alternatives as the time. 
 
 ## Agenda
 
